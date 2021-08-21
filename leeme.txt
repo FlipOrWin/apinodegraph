@@ -1,0 +1,3 @@
+primero se ingresa en la consola el comando 'npm i' para instalar las dependencias en caso de faltar alguna
+para correrlo se usa el comando 'npm start' correra en http://localhost:3000/graphql
+para realizar el build usar el comando 'npm run build'
